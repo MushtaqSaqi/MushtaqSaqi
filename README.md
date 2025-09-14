@@ -36,7 +36,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
-  <img src="https://tse1.mm.bing.net/th/id/OIP.dlN3XoOEiJxtzCtbKUBNAQHaE8?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" alt="CSS>
+  <img src="https://tse1.mm.bing.net/th/id/OIP.dlN3XoOEiJxtzCtbKUBNAQHaE8?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" alt="CSS style= height: 67>
 
 </p>
 
